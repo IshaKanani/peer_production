@@ -26,5 +26,5 @@ While discussing Butler [2], I was confused by a few rules implemented in Wickip
 
 ### References:
 
-1. Nov, O. (2007). What motivates Wikipedians? Communications of the ACM, 50(11), ACM New York, NY, USA.
-2. Butler, B., Joyce, E., & Pike, J. (2008). Don’t Look Now, but We’Ve Created a Bureaucracy: The Nature and Roles of Policies and Rules in Wikipedia. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 1101–1110). New York, NY, USA: ACM.
+1. Nov, O. (2007). What motivates wikipedians?. Communications of the ACM, 50(11), 60-64.
+2. Butler, B., Joyce, E., & Pike, J. (2008, April). Don't look now, but we've created a bureaucracy: the nature and roles of policies and rules in wikipedia. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1101-1110). ACM.
