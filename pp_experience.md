@@ -24,5 +24,7 @@ The motivation of the participation was both fun and enhancement. Since working 
 While discussing Butler [2], I was confused by a few rules implemented in Wickipedia. However, through working on the participation project, it was made more clear why such rules were required. The project I chose required a user validation from the user who was write rights to the repository only, since that user will provide responsible contribution. While my code failed one of the automated test, I still got an approval from a user which I believe did not have write rights. This shows that maybe the users with rights will look more closely.
 
 
+### References:
+
 1. Nov, O. (2007). What motivates Wikipedians? Communications of the ACM, 50(11), ACM New York, NY, USA.
 2. Butler, B., Joyce, E., & Pike, J. (2008). Don’t Look Now, but We’Ve Created a Bureaucracy: The Nature and Roles of Policies and Rules in Wikipedia. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 1101–1110). New York, NY, USA: ACM.
