@@ -1,13 +1,12 @@
 # Peer Production Experience Report
-By Isha Kanani(ik3624)
+By Isha Kanani(ik3624)  
 Citation approach used: APA
 
 ### Introduction
 The peer production participation has connected to may readings discussed in the class. While working on such environments comes with its own risks, I could see precautions taken for a few of them in the project I participated in. The peer production community I identified to work with is a GitHub repository of different Python codes. While writing the expectation initially, I aimed to add a new code to the repository, and also contribute to small tasks like cleaning the existing code, improving documentation, etc.
 
 ### Work Done
-I started my participation in exploring the available repository and figuring out where can I contribute the most. The sub-folder where I decided to add a new python file is [machine_learning](https://github.com/TheAlgorithms/Python/tree/master/machine_learning). I spent some time developing a code that meets the community requirements, which was for the concept *principal component analysis*. However, I was working on a parallel project on *gradient boosting* using *grid search*, and the contribution of adding code for the later concept seemed more valuable. I developed a [code](https://github.com/IshaKanani/Python/blob/master/machine_learning/gradient_boosting_regressor_grid_search.py) with the requirements, and created a [pull request](https://github.com/TheAlgorithms/Python/pull/1605).
-
+I started my participation in exploring the available repository and figuring out where can I contribute the most. The sub-folder where I decided to add a new python file is [machine_learning](https://github.com/TheAlgorithms/Python/tree/master/machine_learning). I spent some time developing a code that meets the community requirements, which was for the concept *principal component analysis*. However, I was working on a parallel project on *gradient boosting* using *grid search*, and the contribution of adding code for the later concept seemed more valuable. I developed a [code](https://github.com/IshaKanani/Python/blob/master/machine_learning/gradient_boosting_regressor_grid_search.py) with the requirements, and created a [pull request](https://github.com/TheAlgorithms/Python/pull/1605).  
 The work submitted has **two steps** verification. The code submitted gets verified by the automated system as well as by a user with write rights to the repository.
 
 
